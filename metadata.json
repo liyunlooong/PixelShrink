@@ -1,0 +1,5 @@
+{
+  "name": "PixelShrink AI",
+  "description": "An intelligent image resizing and optimization tool that uses Gemini to suggest the best compression settings for your needs.",
+  "requestFramePermissions": []
+}
